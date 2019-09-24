@@ -23,7 +23,7 @@
     <PackageTags>LANDIS-II;Landis;Library;Parameters</PackageTags>
     <Description>Input Parameters Library for LANDIS-II</Description>
     <PackageReleaseNotes>.NET Standard 2.0 update.</PackageReleaseNotes>
-    <FileVersion>7.0</FileVersion>
+    <FileVersion>2.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
